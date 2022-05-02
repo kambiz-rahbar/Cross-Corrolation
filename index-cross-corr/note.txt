@@ -1,0 +1,2 @@
+this version shows a correlation based on the signal indexes. 
+if cross-correlation calculated for two signals, the indexes of the first one (x1) will be used as the primary index.
